@@ -10,7 +10,7 @@
     "build:icons": "tsc -b src/@iconify && node src/@iconify/build-icons.js"
   },
   "dependencies": {
-    "@casl/ability": "^6.2.0",
+    "@casl/ability": "^6.7.5",
     "@casl/vue": "^2.2.0",
     "@floating-ui/dom": "1.0.0",
     "@mdi/font": "^7.0.96",
